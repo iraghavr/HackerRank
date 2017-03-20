@@ -1,4 +1,4 @@
-#Lonely Integer
+# Lonely Integer
 
 Consider an array of n integers, A = [a1,a2,a3,...,an], where all but one of the integers occur in pairs. In other words, every element in occurs exactly twice except for one unique element.
 
